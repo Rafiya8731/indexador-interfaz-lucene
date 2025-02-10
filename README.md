@@ -12,7 +12,12 @@ Tecnologías Utilizadas
 - **Formato de datos**: JSON
 - **Herramientas**: Maven (gestión de dependencias), Git (control de versiones)
 
-Uso 
+## Uso
+
+### 1. Ejecutar el Indexador
+```bash
+  java -jar Indexar.jar
+```
 Ejecutar el indexador: java -jar Indexar.jar
 Saldra por terminal un menu en el que hay que crear como minimo los indices metadata, metadata analizado y reviews agrupadas (que son los índices que se usan en la interfaz).
 Ejercutar la interfaz: java -jar Interfaz.jar
