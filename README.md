@@ -16,10 +16,10 @@ Tecnologías Utilizadas
 
 ### 1. Ejecutar el Indexador (Crear índices Metadata, Metadata Analizado y Reviews Agrupadas)
 ```bash
-  java -jar Indexar.jar
+java -jar Indexar.jar
 ```
 Saldra por terminal un menú en el que hay que crear como mínimo los índices metadata, metadata analizado y reviews agrupadas (que son los índices que se usan en la interfaz).
 ### 2. Ejercutar la interfaz
 ```bash
-  java -jar Interfaz.jar
+java -jar Interfaz.jar
 ```
